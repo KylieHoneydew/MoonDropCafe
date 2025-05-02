@@ -1,0 +1,191 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+/*  font-family: "Roboto Condensed", serif; 
+ font-family: "Limelight", serif;*/
+
+body {background-image: url("pics/websiteheadbackground.jpg");
+background-repeat: repeat;
+background-size: contain;
+}
+
+/*navigation*/
+.navigation {padding: 10px;
+    top: 0;
+    margin: 0 auto;
+    left: 0;
+    background-color: #461542;
+    position:fixed;
+    width: 100%;
+    height: 70px;
+    z-index: 1;
+    
+    }
+    .navigation img {width: 90px; 
+align-items: flex-start;
+margin-top: -10px;}
+
+    .navigation ul {
+        display: flex;
+        justify-content:space-evenly;
+        max-width: 85%;
+        margin-top: 0px;
+        
+    }
+    .navigation a {
+        text-decoration: none;
+        color: #f2d0ef;
+        font-size: 20px;
+    }
+    .navigation ul li {
+        padding: 20px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-weight: 500;
+        list-style: none;
+    }
+/*
+.merchstart {
+ background-image: url("pics/websiteheadbackground.jpg");
+ padding: 150px;
+ margin: 0 auto;
+ max-height: 100px;
+ height: 35%;
+  background-position:bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+
+.logoheader img { 
+    max-width: 400px;
+    max-height: auto;
+    max-height: 80%;
+}
+*/
+
+/*Wrapper*/
+.wrapper {
+    border-radius: 40px;
+    padding: 10px 0;
+    width: 80%;
+    margin: auto;
+    
+}
+
+/*Hero quote "A Celestial Brew for Every Mood"*/
+.slogansec {
+    background-image: url("pics/coffeecupsright.jpg");
+    padding: 200px;
+    margin-top: 110px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    max-height: 130px;
+     background-position:right;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+     border-radius: 30px;
+     border: solid 5px #a8487a;
+     box-shadow: 10px 10px 6px #461542;
+
+}
+
+.slogansec h3 {
+    color: #f2d0ef;
+    font-family: "Limelight", serif;
+        font-weight: 700;
+        font-size: 80px;
+        text-align: left;
+        margin-left: -150px;
+        margin-top: -90px;
+      
+
+}
+
+/*Quality, sustainability, and Care*/
+
+.box1 { background-color: #ba7096;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    border: solid 6px #a8487a;
+    box-shadow: 10px 10px 6px #390e39;
+}
+.box2 { background-color: #ba7096;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    border: solid 6px #a8487a;
+    box-shadow: 10px 10px 6px #390e39;
+}
+.box3 { background-color: #ba7096;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    border: solid 6px #a8487a;
+    box-shadow: 10px 10px 6px #390e39;
+}
+
+.box123 p  {font-family: "Roboto Condensed", serif;
+font-weight: 500;
+text-align: left;
+font-size: 20px;
+color: #f2d0ef;}
+
+.box123 h4 {
+    font-family: "Roboto Condensed", serif;color: #f2d0ef;
+font-weight: 600;
+text-align: center;
+font-size: 30px;
+margin-bottom: 2px;
+margin-top: 10px;}
+
+.box123 {color: #a8487a;
+    display: flex;
+justify-content: space-between;
+height: 375px;
+max-width: max-content;
+margin-bottom: 30px;}
+
+/*Video*/
+.video
+ {background-color: #ba7096;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 30px;
+    border: solid 6px #a8487a;
+    box-shadow: 10px 10px 6px #390e39;
+max-width: 2900px;
+height: 330px;}
+.video h4 {font-family: "Roboto Condensed", serif;color: #f2d0ef;
+margin-top: 18px;
+margin-left: 40px; 
+margin-right: 50px;}
+
+/*Moon drop Focus*/
+.moondropfocus { 
+    margin-top: 20px;
+    margin-right: 20px;
+margin-left: 20px;
+padding: 10px;}
+.moondropfocus h4 {font-size: 20px;
+    margin: 10px;
+color: #f2d0ef;}
+
+/*Footer*/
+    footer {
+        background-color: #461542;
+        margin: -9px;
+    color: #f2d0ef;
+font-size: 15px;
+padding: 60px;}
+footer h2 {font-family: "Limelight", serif;}
+
+footer p {font-family: "Limelight", serif;}
+.footerwrapper {display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-evenly ;
+}
+.designed {text-align: center;}
