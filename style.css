@@ -41,6 +41,7 @@ margin-top: -10px;}
         font-family:Georgia, 'Times New Roman', Times, serif;
         font-weight: 500;
         list-style: none;
+     margin-top: 0px;
     }
 /*
 .merchstart {
@@ -190,3 +191,4 @@ footer p {font-family: "Limelight", serif;}
 }
 
 .designed {text-align: center;}
+
