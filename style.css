@@ -20,12 +20,8 @@ background-size: contain;
     z-index: 1;
     
     }
-.navigation ul li a {
- margin-top: 20px;
-}
-    .navigation img {width: 90px; 
-align-items: flex-start;
-margin-top: -10px;}
+
+    
 
     .navigation ul {
         display: flex;
@@ -204,6 +200,7 @@ footer p {font-family: "Limelight", serif;}
 }
 
 .designed {text-align: center;}
+
 
 
 
