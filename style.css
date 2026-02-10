@@ -16,7 +16,7 @@ background-size: contain;
     background-color: #461542;
     position:fixed;
     width: 100%;
-    height: 20px;
+    height: 70px;
     z-index: 1;
     
     }
@@ -29,8 +29,6 @@ margin-top: -10px;}
         justify-content:space-evenly;
         max-width: 85%;
         margin-top: 0px;
-     margin-top: 0px;
-        
     }
     .navigation a {
         text-decoration: none;
@@ -42,6 +40,7 @@ margin-top: -10px;}
         font-family:Georgia, 'Times New Roman', Times, serif;
         font-weight: 500;
         list-style: none;
+     
     }
 /*
 .merchstart {
@@ -191,5 +190,6 @@ footer p {font-family: "Limelight", serif;}
 }
 
 .designed {text-align: center;}
+
 
 
