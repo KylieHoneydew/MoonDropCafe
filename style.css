@@ -31,7 +31,6 @@ background-size: contain;
         text-decoration: none;
         color: #f2d0ef;
         font-size: 20px;
-     margin-top:20px;
     }
     
     .navigation ul li {
@@ -51,7 +50,7 @@ background-size: contain;
 
     }
 
-    .logo { margin-top:-5px ;}
+    .logo { margin-top: 10px ;}
 /*
 .merchstart {
  background-image: url("pics/websiteheadbackground.jpg");
@@ -200,6 +199,7 @@ footer p {font-family: "Limelight", serif;}
 }
 
 .designed {text-align: center;}
+
 
 
 
