@@ -28,7 +28,7 @@ margin-top: -10px;}
         display: flex;
         justify-content:space-evenly;
         max-width: 85%;
-        margin-top: 5px;
+        margin-top: 10px;
     }
     .navigation a {
         text-decoration: none;
@@ -201,6 +201,7 @@ footer p {font-family: "Limelight", serif;}
 }
 
 .designed {text-align: center;}
+
 
 
 
